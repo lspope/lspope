@@ -9,10 +9,6 @@
 
 - ⚡ Fun fact **I 💖 sci-fi, reading, yoga, and cats.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/leahspope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leahspope/" height="30" width="40" /></a>
