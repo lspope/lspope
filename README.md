@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science Capstone Project**
 
-- 🌱 I’m currently learning **nlkt, spaCy, scikit-learn, and more!**
+- 🌱 I’m currently learning **nltk, spaCy, scikit-learn, and more!**
 
 - ⚡ Fun fact **I 💖 sci-fi, reading, yoga, and cats.**
 
