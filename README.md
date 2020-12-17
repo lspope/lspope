@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nltk, spaCy, scikit-learn, and more!**
 
-- ⚡ Fun fact **I 💖 sci-fi, reading, yoga, and cats.**
+- ⚡ Fun fact **I 💖 sci-fi, reading, cats, and yoga.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
