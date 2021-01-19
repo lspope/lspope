@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lspope&label=Profile%20views&color=0e75b6&style=flat" alt="lspope" /> </p>
 
-- 🔭 I’m currently working on **Data Science Capstone Project**
+- 🔭 I’m currently working on **Data Science Capstone Project: COVID-19 K-12 Learning Sentiment Classifer**
 
-- 🌱 I’m currently learning **NLTK, spaCy, scikit-learn, tweepy, and more!**
+- 🌱 I’m currently learning **NLTK, scikit-learn, tweepy, and more!**
 
 - ⚡ Fun fact **I 💖 sci-fi, reading, cats, and yoga.**
 
