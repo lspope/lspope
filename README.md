@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lspope&label=Profile%20views&color=0e75b6&style=flat" alt="lspope" /> </p>
 
-- 🔭 I’m currently working on **Data Science Capstone Project: COVID-19 K-12 Learning Sentiment Classifer**
+- 🔭 I’m currently working on expanding my Flatiron Data Science Capstone Project: **Sentiment on K-12 Learning during COVID-19**
 
 - 🌱 I’m currently learning **NLTK, scikit-learn, tweepy, and more!**
 
