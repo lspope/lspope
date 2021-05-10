@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋🏻, I'm Leah</h1>
-<h3 align="center">Data Scientist with a Software Engineering background</h3>
+<h3 align="center">Data Scientist 📊 by way of Software Engineering👩🏼‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lspope&label=Profile%20views&color=0e75b6&style=flat" alt="lspope" /> </p>
 
-- 🔭 I’m currently working on: **expanding my Flatiron Data Science Capstone Project: ***Sentiment on K-12 Learning during COVID-19*****
+- 🔭 ***I’m currently working on:*** Using Data Science for social good through volunteer work with **[Social Impact Analysis Institute](https://github.com/SIA-Institute)**
 
-- 🌱 I’m currently learning: **NLTK, scikit-learn, tweepy, and more!**
+- 🌱 ***I’m currently learning:*** NLTK, scikit-learn, tweepy, and more!
 
-- ⚡ Fun facts: **I just moved from the US 🗽to the UK 💂 and I 💖 sci-fi, reading, cats, and yoga.**
+- ⚡ ***Fun facts:*** I just moved from the US 🗽to the UK 💂! I 💖 sci-fi, reading, photography, and yoga.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
