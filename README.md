@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lspope&label=Profile%20views&color=0e75b6&style=flat" alt="lspope" /> </p>
 
-- 🔭 ***I’m currently working on:*** Building out my Data Science Portfolio**
+- 🔭 ***I’m currently working on:*** Building out my Data Science Portfolio!
 
 - 🌱 ***I’m currently learning:*** Dash, Plotly, NLTK, scikit-learn, and more!
 
