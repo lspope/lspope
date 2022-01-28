@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lspope&label=Profile%20views&color=0e75b6&style=flat" alt="lspope" /> </p>
 
-- 🔭 ***I’m currently working on:*** Building out my Data Science Portfolio!
+- 🔭 ***I’m currently working on:*** Building out my Data Science Portfolio
 
-- 🌱 ***I’m currently learning:*** Dash, Plotly, NLTK, and more!
+- 🌱 ***I’m currently learning:*** Dash, Plotly, NLTK, and more
 
-- ⚡ ***Fun facts:***  I 💖 sci-fi, reading, photography, and yoga. Also, I just moved from the US 🗽to the UK 💂!
+- ⚡ ***Fun facts:***  I 💖 sci-fi, reading, photography, and yoga.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
