@@ -5,7 +5,7 @@
 
 - 🔭 ***I’m currently working on:*** Building out my Data Science Portfolio
 
-- 🌱 ***I’m currently learning:*** Dash, Plotly, NLTK, and more
+- 🌱 ***I’m currently learning:*** Dash, Plotly, and more!
 
 - ⚡ ***Fun facts:***  I 💖 sci-fi, reading, photography, and yoga.
 
