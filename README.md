@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Leah</h1>
-<h3 align="center">Data Scientist 📊 by way of Software Engineering 👩🏼‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lspope&label=Profile%20views&color=0e75b6&style=flat" alt="lspope" /> </p>
-
-- 🔭 ***I’m currently working on:*** Building out my Data Science Portfolio
-
-- 🌱 ***I’m currently learning:*** Dash, Plotly, and more!
-
-- ⚡ ***Fun facts:***  I 💖 sci-fi, reading, photography, and yoga.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
